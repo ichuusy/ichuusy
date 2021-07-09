@@ -2,7 +2,7 @@
 <h3 align="center">I love writing code and I want to master all programming languages. I'm trying to improve myself.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
 
-- 🌱 Learning *Python*
+- 🌱 Learning **Python**
 
 - 🍙 My goal is be master of Python and learn C# for now.
 
