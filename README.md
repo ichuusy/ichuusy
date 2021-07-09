@@ -1,5 +1,7 @@
-<h1 align="center"👋 Hi, I’m Horise</h1>
-<h3 align="center">I love writing code and I want to master all programming languages. I'm trying to improve myself.</h3>
+<h1 align="center👋Hi, I'm Horise</h1>
+           
+<h3 align="center">A weird person who code for automate certain things and develop as i want.</h3>
+                  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
 
 - 🌱 Learning **Python**
