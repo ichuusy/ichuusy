@@ -1,4 +1,4 @@
-<h1 align="center"👋 Hi, I’m Horise</h1>
+<h1 align="center">👋 Hi, I’m Horise</h1>
 
 <h3 align="center">I love writing code and I want to master all programming languages. I'm trying to improve myself.</h3>
 
