@@ -15,5 +15,5 @@
 <a href="https://discord.gg/exprCH2uaS" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="SbHQ9MMafJ" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Programming languages</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
