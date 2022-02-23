@@ -12,9 +12,7 @@
 
 <h3 align="left">Contact with me</h3>
 <p align="left">
-<a href="https://discord.gg/fsVutVh3sJ" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="SbHQ9MMafJ" height="30" width="40" /></a>
-</p>
-<a href="https://www.instagram.com/ichuusy/" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="SbHQ9MMafJ" height="30" width="40" /></a>
+<a href="https://discord.gg/fsVutVh3sJ" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="SbHQ9MMafJ" height="30" width="40" /></a> </p><a href="https://www.instagram.com/ichuusy/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="SbHQ9MMafJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming languages and tools</h3>
