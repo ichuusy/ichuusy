@@ -11,9 +11,8 @@
 - 🍘 I hope i'll be a master of game developer in the future.
 
 <h3 align="left">Contact with me</h3>
-<p align="left">
-<a href="https://discord.gg/fsVutVh3sJ" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="SbHQ9MMafJ" height="30" width="40" /></a> </p><a href="https://www.instagram.com/ichuusy/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="SbHQ9MMafJ" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/ichuusy/) [![Discord](https://img.icons8.com/color/48/000000/discord--v2.png)](https://discord.gg/fsVutVh3sJ)
+
 
 <h3 align="left">Programming languages and tools</h3>
   <a href="https://www.python.org" target="_blank">
