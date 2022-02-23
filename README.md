@@ -42,14 +42,14 @@
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img
-      src="(https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"
       alt="sqllite"
       width="40"
       height="40"
     />
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="(https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"
+      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"
       alt="postgresql"
       width="40"
       height="40"
