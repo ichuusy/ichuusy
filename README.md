@@ -12,7 +12,7 @@
 
 <h3 align="left">Contact with me</h3>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/ichuusy/) ![Discord](https://img.icons8.com/color/48/000000/discord--v2.png)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/ichuusy/) [![Discord](https://img.icons8.com/color/48/000000/discord--v2.png)](https://discord.gg/fsVutVh3sJ)
 
 
 <h3 align="left">Programming languages and tools</h3>
