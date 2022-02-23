@@ -6,9 +6,9 @@
 
 - 🌱 Learning **Python libraries, Advanced Csharp and Unity library**
 
-- 🍙 My goal is be master of Python and learn C# for now.
+- 🍙 My goal is be master of Game Development.
 
-- 🍘 I hope i'll be a game developer in the future.
+- 🍘 I hope i'll be a master of game developer in the future.
 
 <h3 align="left">Contact with me</h3>
 <p align="left">
