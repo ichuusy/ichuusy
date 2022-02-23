@@ -68,6 +68,27 @@
       width="40"
       height="40"
    />
+  <a href="https://unity.com" target="_blank">
+    <img
+      src="https://i.pinimg.com/564x/e3/84/85/e384853cc0819c9ac601857f3ad8cedf.jpg"
+      alt="unity"
+      width="40"
+      height="40"
+   />
+  <a href="https://www.pygame.org/news" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif"
+      alt="pygame"
+      width="40"
+      height="40"
+   />
+  <a href="https://www.blender.org" target="_blank">
+    <img
+      src="https://download.blender.org/branding/community/blender_community_badge_white.png"
+      alt="blender"
+      width="40"
+      height="40"
+   />
     
 ![ichuusy Github Stats](https://github-readme-stats.vercel.app/api?username=ichuusy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichuusy&show_icons=true&theme=radical&layout=compact)
