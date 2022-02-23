@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
 
-- 🌱 Learning **Python**
+- 🌱 Learning **Python libraries, Advanced Csharp and Unity library**
 
 - 🍙 My goal is be master of Python and learn C# for now.
 
