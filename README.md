@@ -40,10 +40,31 @@
       height="40"
     />
   </a>
-  <a href="https://unity.com/" target="_blank">
+  <a href="https://www.sqlite.org/index.html" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
+      src="(https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"
+      alt="sqllite"
       width="40"
       height="40"
     />
+  <a href="https://www.postgresql.org" target="_blank">
+    <img
+      src="(https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"
+      alt="postgresql"
+      width="40"
+      height="40"
+   />
+  <a href="https://git-scm.com" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/000000/git.png"
+      alt="git"
+      width="40"
+      height="40"
+   />
+  <a href="https://github.com" target="_blank">
+    <img
+      src="https://img.icons8.com/fluency/48/000000/github.png"
+      alt="github"
+      width="40"
+      height="40"
+   />
