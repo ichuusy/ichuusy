@@ -77,7 +77,7 @@
    />
   <a href="https://www.pygame.org/news" target="_blank">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif"
+      src="https://www.pygame.org/ftp/pygame-head-party.png"
       alt="pygame"
       width="40"
       height="40"
