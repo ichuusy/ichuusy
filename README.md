@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m ichuusy</h1>
 
-<h3 align="center">I love writing code and I want to master on Game Developer. I'm trying to improve myself.</h3>
+<h3 align="center">I love writing code and I want to be master on Game Developer. I'm trying to improve myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
 
