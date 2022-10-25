@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I’m ichuusy</h1>
 
-<h3 align="center">I love writing code and I want to master on Game Developer. I'm trying to improve myself.</h3>
+<h3 align="center">Independent Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
 
 - 🌱 Learning **Python libraries, Advanced CSharp and Unity library**
 
-- 🍙 My goal is be master of Game Development.
+- 🍙 I'm a independent game dev and i'm making some cool projects.
 
 <h3 align="left">Contact with me</h3>
 
