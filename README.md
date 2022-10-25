@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
 
-- 🌱 Learning **Python libraries, Advanced Csharp and Unity library**
+- 🌱 Learning **Python libraries, Advanced CSharp and Unity library**
 
 - 🍙 My goal is be master of Game Development.
-
-- 🍘 I hope i'll be a master of game developer in the future.
 
 <h3 align="left">Contact with me</h3>
 
