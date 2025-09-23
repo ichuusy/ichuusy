@@ -2,7 +2,7 @@
 
 #### About Me
 
-- 👋 Hi, I'm Berke! I'm an independent developer also i'm high school student.
+- 👋 Hi, I'm Berke! I'm an independent developer.
 - 🧠 I'm mainly interested in **Game Development**.
 - 💖 My favourite languages are **Python**, **CSharp** and **PHP** because i only know this languages...
 - 🔧 I'm currently improving myself to be advanced in CSharp also develop some game projects.
